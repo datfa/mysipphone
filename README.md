@@ -1,5 +1,7 @@
 # mysipphone
 
+MySipPhone is a free soft phone for your voice over IP communcations using the SIP protocol.
+
 MySipPhone? SIP/VoIP application for Windows OS.
 
 Features:
@@ -21,6 +23,10 @@ Audio and Video Codecs:
 4. Supports Plugin Codecs
 
 
+https://lh6.googleusercontent.com/-PUV-ZpbN2tI/T2NjWNXiseI/AAAAAAAAAAg/TEzEQBzugXw/s480/Page-1.png<br>
+https://lh4.googleusercontent.com/-wVWQM_yRCAg/T2No5PD8qCI/AAAAAAAAABI/hVGVk2AMjq0/s602/Page-2.png<br>
+https://lh4.googleusercontent.com/-qdME_mweqfo/T2NjaMiQpDI/AAAAAAAAAAo/Y4rVEmHysA0/s498/Page-3.png<br>
+https://lh6.googleusercontent.com/-blQ4ShVkLa0/T2Nje43DysI/AAAAAAAAAA4/nur_8OtHuBQ/s533/Page-4.png<br>
 
 
 
